@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="open-baize-snapshots" />
+      <option name="name" value="Open Baize Project SNAPSHOT" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gdd-snapshots" />
+      <option name="name" value="gdd-snapshots" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloudsop-snapshots" />
+      <option name="name" value="cloudsop-snapshots" />
+      <option name="url" value="http://szxy4.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/telco_os_maven_snapshots_new/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gdd-repo" />
+      <option name="name" value="gdd maven" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloudsop-releases" />
+      <option name="name" value="cloudsop-releases" />
+      <option name="url" value="http://szxy4.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/telco_os_maven_releases_new/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="OPMTos" />
+      <option name="name" value="local private nexus" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="local private nexus" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="open-baize-releases" />
+      <option name="name" value="Open Baize Project RELEASE" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mae-snapshots" />
+      <option name="name" value="mae-snapshots" />
+      <option name="url" value="http://maven.cloudartifact.szv.dragon.tools.huawei.com/artifactory/Product-mae-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloudsop-releases-new" />
+      <option name="name" value="cloudArtifactory" />
+      <option name="url" value="http://language.cloudartifact.dgg.dragon.tools.huawei.com/artifactory/product_maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gdd-releases" />
+      <option name="name" value="gdd-releases" />
+      <option name="url" value="http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="centralrepo" />
+      <option name="name" value="centralrepo" />
+      <option name="url" value="http://cmc.centralrepo.rnd.huawei.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mae-releases" />
+      <option name="name" value="mae-releases" />
+      <option name="url" value="http://maven.cloudartifact.szv.dragon.tools.huawei.com/artifactory/Product-mae-release/" />
+    </remote-repository>
+  </component>
+</project>
